@@ -1,0 +1,85 @@
+/* Estilos para el nav*/
+.socialMedia{
+    text-decoration: none;
+    color: azure;
+}
+
+/* Estilos para el footer*/
+.footer
+{
+    background: #F85E29;
+}
+
+/* Estilos para el titulo del servicio*/
+.serviciosTitulo
+{
+    font-family: 'Dela Gothic One';
+}
+
+.tituloServicios
+{
+    background: #F85E29;
+    display: grid;
+    place-content: center;
+}
+
+/* Estilos para la informacion */
+.informacion
+{
+    background: #042642;
+    padding-bottom: 1px;
+}
+.separador
+{
+    color: #F85E29;
+    padding: 1px;
+}
+
+.informacionGeneral
+{
+    margin-left: 2%;
+}
+
+.tituloS
+{
+    color: white;
+}
+
+.parrafoS
+{
+    color: white;
+}
+
+.valorS
+{
+    color: white;
+}
+
+/* Estilos para el formulario*/
+.formulario
+{
+    background: lightyellow;
+    padding-left: 20%;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    border-radius: 20px / 30px;
+}
+
+.form
+{
+    padding-top: 3%;
+}
+
+.mensaje
+{
+    size: 20px;
+}
+
+/* Estilos para el mapa*/
+.mapa
+{
+    padding-top: 3%;
+    padding-left: 25%;
+    padding-bottom: 3%;
+}

@@ -1,0 +1,47 @@
+/*Estilos para las redes sociales*/
+.socialMedia{
+    text-decoration: none;
+    color: azure;
+}
+/*Estilos para el footer*/
+.footer
+{
+    background: #042642;
+}
+
+/*Estilos para el titulo debajo del nav*/
+.titulo
+{
+    background:  #F85E29;
+    display: grid;
+    place-content: center;
+}
+
+/*Estilos para el tamaño del mapa*/
+.mapa
+{
+    padding-top: 3%;
+    padding-left: 25%;
+    padding-bottom: 3%;
+}
+
+/*Estilos para el formulario*/
+.formulario
+{
+    background: lightyellow;
+    padding-left: 20%;
+    padding-top: 2%;
+    padding-right: 2%;
+    padding-bottom: 2%;
+    border-radius: 20px / 30px;
+}
+
+.form
+{
+    padding-top: 3%;
+}
+
+.mensaje
+{
+    size: 20px;
+}
