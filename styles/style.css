@@ -10,13 +10,15 @@
     background: #042642;
 }
 
+
+
 /*Estilos para el titulo debajo del nav*/
 .titulo
 {
     background:  #F85E29;
     display: grid;
     place-content: center;
-    padding: 10px;
+    padding: 0.1%;
 }
 
 /*Estilos para el tamaño del mapa*/
