@@ -55,7 +55,6 @@ body{
 
 .footer
 {
-    padding: 4%;
     background: #F85E29;
 }
 
@@ -65,13 +64,91 @@ body{
     background: #F85E29;
     text-align: center;
     display: grid;
+    padding: auto;
 }
 
 
 /* Estilos para el mapa*/
 .mapa
 {
-    padding-top: 3%;
-    padding-left: 25%;
+    padding: 3% 5%;
+    text-align: center;
+}
+
+.certificado
+{
+    display: grid;
+    place-content: center;
+    padding-top: 10%;
+}
+
+.imagen{
+    width: 250px;
+    height: 300px;
+}
+
+.textoDerechos
+{
+    display: grid;
+    place-content: center;
+    padding: 25%;
+}
+
+.textoDerechos p{
+    text-align: center;
+    color: white;
+}
+
+.mapa h3{
+    font-family: Agbalumo;
+    color: white;
+}
+
+.formulario
+{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.fondo, .contactos
+{
+    background: #042642;
     padding-bottom: 3%;
 }
+
+/* Estlos del formulario */
+.styled-form {
+    max-width: 500px;
+    margin: auto;
+    background-color: #fff;
+    padding: 2%;
+    border-radius: 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  /* Espacios entre mensajes e inputs*/
+  .form-group {
+    margin-bottom: 5%;
+  }
+
+  .styled-button {
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .styled-button:hover {
+    background-color: #0056b3;
+  }
+
+  .fondo h1{
+    font-family: 'Dela Gothic One';
+    text-align: center;
+    padding: 2%;
+    color: white;
+  }

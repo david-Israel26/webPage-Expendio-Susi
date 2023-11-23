@@ -125,9 +125,8 @@
 /* Estilos para el mapa*/
 .mapa
 {
-    padding-top: 3%;
-    padding-left: 25%;
-    padding-bottom: 3%;
+    padding: 3% 5%;
+    text-align: center;
 }
 
 /* Estilos para el formulario*/
@@ -149,4 +148,33 @@
 .mensaje
 {
     size: 20px;
+}
+
+.certificado
+{
+    display: grid;
+    place-content: center;
+    padding-top: 10%;
+}
+
+.imagenCetificado{
+    width: 250px;
+    height: 300px;
+}
+
+.textoDerechos
+{
+    display: grid;
+    place-content: center;
+    padding: 25%;
+}
+
+.textoDerechos p{
+    text-align: center;
+    color: white;
+}
+
+.mapa h3{
+    font-family: Agbalumo;
+    color: white;
 }

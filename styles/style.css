@@ -45,3 +45,32 @@
 {
     size: 20px;
 }
+
+.certificado
+{
+    display: grid;
+    place-content: center;
+    padding-top: 10%;
+}
+
+.imagen{
+    width: 250px;
+    height: 300px;
+}
+
+.textoDerechos
+{
+    display: grid;
+    place-content: center;
+    padding: 25%;
+}
+
+.textoDerechos p{
+    text-align: center;
+    color: white;
+}
+
+.mapa h3{
+    font-family: Agbalumo;
+    color: white;
+}
